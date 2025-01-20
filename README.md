@@ -1,1 +1,1 @@
-# :video_game: Let's play!
+# Remember to commit and push your work to GitHub.
